@@ -21,3 +21,8 @@ Step 4. Runserver
 Step 5. Run Django admin
  
      Goto: localhost:8000/admin
+
+Todo
+=====
+1. Add Heroku support
+2. Add Django Vanilla View support
