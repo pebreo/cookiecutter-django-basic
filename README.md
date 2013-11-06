@@ -7,7 +7,7 @@ Step 1. Install cookiecutter
 
 Step 2. Run cookiecutter 
 
-    $ cookiecutter https://github.com:pebreo/cookiecutter-test2.git
+    $ cookiecutter https://github.com:pebreo/cookiecutter-django-basic.git
 
 Step 3. Syncdb
     
