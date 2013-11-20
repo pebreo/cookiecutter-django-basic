@@ -1,7 +1,7 @@
 from os.path import abspath, basename, dirname, join, normpath
 from sys import path
 
-DJANGO_ROOT = dirname(abspath(__file__))
+DJANGO_ROOT = dirname(dirname(abspath(__file__)))
 SITE_NAME = basename(DJANGO_ROOT)
 path.append(DJANGO_ROOT)
 
