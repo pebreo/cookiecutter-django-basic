@@ -24,7 +24,7 @@ Step 5. Run Django admin
 
 Todo
 =====
-1. Add 'static' folder
+1. Add 'static', 'assets', and 'media' folder
 2. Add 'templates' folder
 1. Add Heroku support
 2. Add Django Vanilla View support
