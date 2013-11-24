@@ -7,8 +7,7 @@ $ pip install cookiecutter
 ```
 Step 2. Run cookiecutter 
 ```
-$ cookiecutter git@github.com:myusername/cookiecutter-django-basic.git
-
+$ cookiecutter git@github.com:pebreo/cookiecutter-django-basic.git
 ```
 Step 3. Install requirements
 ```
