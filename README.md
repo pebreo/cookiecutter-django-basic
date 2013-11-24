@@ -7,7 +7,7 @@ $ pip install cookiecutter
 ```
 Step 2. Run cookiecutter 
 ```
-$ cookiecutter https://github.com:myuser/cookiecutter-django-basic.git
+$ cookiecutter git@github.com:myusername/cookiecutter-django-basic.git
 NOTE: You can only run cookiecutter on the repo that you own.
 ```
 Step 3. Install requirements
