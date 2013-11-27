@@ -29,7 +29,6 @@ Goto: localhost:8000/admin
 ```
 Todo
 =====
-1. Add 'static', 'assets', and 'media' folder
-2. Add 'templates' folder
+1. Add 'assets' and 'media' folder
 1. Add Heroku support
 2. Add Django Vanilla View support
